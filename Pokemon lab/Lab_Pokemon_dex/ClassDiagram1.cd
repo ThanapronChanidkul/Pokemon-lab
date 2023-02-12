@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_Pokemon_dex.pokemons.Pokemon" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAACBAAAAABQIAEQACAAAAEAkAAAAA=</HashCode>
+      <FileName>pokemons\Pokemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_Pokemon_dex.pokemons.Snorlax" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pokemons\Snorlax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_Pokemon_dex.pokemons.Munchlax" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pokemons\Munchlax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_Pokemon_dex.Jigglypuff" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pokemons\Jigglypuff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_Pokemon_dex.Diglett" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pokemons\Diglett.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_Pokemon_dex.Beedrill" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pokemons\Beedrill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
